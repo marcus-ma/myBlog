@@ -12,4 +12,6 @@
 
 **6. [位运算解决数据表状态枚举类问题](https://github.com/marcus-ma/myBlog/issues/6)**
 
-**7. [布隆过滤器解决接口被刷与筛选庞大重复数据问题](https://github.com/marcus-ma/myBlog/issues/7)** `TODO`
+**7. [布隆过滤器解决接口被刷与筛选庞大重复数据问题](https://github.com/marcus-ma/myBlog/issues/7)** 
+
+**8. [SQL中的count函数统计坑](https://github.com/marcus-ma/myBlog/issues/8)** 
