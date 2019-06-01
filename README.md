@@ -15,3 +15,5 @@
 **7. [布隆过滤器解决接口被刷与筛选庞大重复数据问题](https://github.com/marcus-ma/myBlog/issues/7)** 
 
 **8. [SQL语句中的count函数一次统计坑](https://github.com/marcus-ma/myBlog/issues/8)** 
+
+**9. [PHP利用fsockopen发起异步请求](https://github.com/marcus-ma/myBlog/issues/9)** 
