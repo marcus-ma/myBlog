@@ -18,4 +18,4 @@
 
 **9. [PHP利用fsockopen发起异步请求](https://github.com/marcus-ma/myBlog/issues/9)** 
 
-**10. [Go简单实现生产者与消费者模型](https://github.com/marcus-ma/myBlog/issues/10)** 
+**10. [Go与正则实现日志解析器](https://github.com/marcus-ma/myBlog/issues/10)** 
