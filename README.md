@@ -20,4 +20,4 @@
 
 **10. [Go与正则实现日志解析器](https://github.com/marcus-ma/myBlog/issues/10)** 
 
-**11. [推荐模式之cf实战](https://github.com/marcus-ma/myBlog/issues/11)** 
+**11. [推荐模式之cf(协同过滤)实战](https://github.com/marcus-ma/myBlog/issues/11)** 
