@@ -19,3 +19,5 @@
 **9. [PHP利用fsockopen发起异步请求](https://github.com/marcus-ma/myBlog/issues/9)** 
 
 **10. [Go与正则实现日志解析器](https://github.com/marcus-ma/myBlog/issues/10)** 
+
+**11. [推荐模式之cf实战](https://github.com/marcus-ma/myBlog/issues/11)** 
