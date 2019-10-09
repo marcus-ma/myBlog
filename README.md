@@ -21,3 +21,5 @@
 **10. [Go与正则实现日志解析器](https://github.com/marcus-ma/myBlog/issues/10)** 
 
 **11. [利用基于canal的go库来监听binlog日志](https://github.com/marcus-ma/myBlog/issues/11)** 
+
+**12. [尝试利用thrift协议进行跨语言调用](https://github.com/marcus-ma/myBlog/issues/12)** `TODO`
