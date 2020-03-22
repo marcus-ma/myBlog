@@ -22,4 +22,6 @@
 
 **11. [利用基于canal的go库来监听binlog日志](https://github.com/marcus-ma/myBlog/issues/11)** 
 
-**12. [尝试利用thrift协议进行跨语言调用](https://github.com/marcus-ma/myBlog/issues/12)** `TODO`
+**12. [Bitmap位图解决海量数据去重、查找问题](https://github.com/marcus-ma/myBlog/issues/12)** `TODO`
+
+**13. [尝试利用thrift协议进行跨语言调用](https://github.com/marcus-ma/myBlog/issues/13)** `TODO`
