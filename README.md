@@ -24,4 +24,4 @@
 
 **12. [Bitmap位图解决海量数据去重、查找问题](https://github.com/marcus-ma/myBlog/issues/12)** 
 
-**13. [尝试利用thrift协议进行跨语言调用](https://github.com/marcus-ma/myBlog/issues/13)** `TODO`
+**13. [利用atomic.Value实现原子性变量更新](https://github.com/marcus-ma/myBlog/issues/13)**
