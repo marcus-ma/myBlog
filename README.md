@@ -25,3 +25,5 @@
 **12. [Bitmap位图解决海量数据去重、查找问题](https://github.com/marcus-ma/myBlog/issues/12)** 
 
 **13. [利用atomic.Value实现原子性变量更新](https://github.com/marcus-ma/myBlog/issues/13)**
+
+**14. [利用双数组树来压缩高效解决大量敏感词匹配问题](https://github.com/marcus-ma/myBlog/issues/14)**
